@@ -1,2 +1,6 @@
 test git
+<<<<<<< HEAD
 love test
+=======
+test con
+>>>>>>> 23802b8efb81f1474a03fed884731cceebb05d93
